@@ -1,3 +1,8 @@
+# https://github.com/dshvetsov2025/lab10-DS-CZ
+# Partner 1: Dmitrii Shvetsov
+# Partner 2: Case Zumbrum
+
+
 import math
 
 def square_root(a):

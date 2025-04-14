@@ -1,3 +1,7 @@
+# https://github.com/dshvetsov2025/lab10-DS-CZ
+# Partner 1: Dmitrii Shvetsov
+# Partner 2: Case Zumbrum
+
 # Full code for the test_calculator file
 import unittest
 import calculator
